@@ -30,15 +30,18 @@ Create ```int``` variables that store the total points for each team (for exampl
 
 | Team | Wins | Losses | Points |
 | --- | --- | --- | --- |
+
 For a music competition, it might look like:
 
 | Team | Judge 1 | Judge 2 | Average |
+| --- | --- | --- | --- |
 
 ## Step 6 - Print all statistics
 Using the variables, fill out the statistics  table.  
 Overall, your table should look similar to the following:
 
-| Team  | Wins | Losses | Points |
+| Team  | Wins | Losses | Points | 
+| --- | --- | --- | --- | --- |
 | Eskimos | 9 | 7 | 18 |
 | Argos | 6 | 10 | 12 |
 | Stampeeders | 2 | 14 | 4
