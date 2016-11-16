@@ -29,7 +29,7 @@ Create ```int``` variables that store the total points for each team (for exampl
 2. Print a title line for a table that you will fill with stats: For a sports league, it might look like:
 
 | Team | Wins | Losses | Points |
-
+| --- | --- | --- | --- |
 For a music competition, it might look like:
 
 | Team | Judge 1 | Judge 2 | Average |
