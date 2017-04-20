@@ -1,4 +1,4 @@
-# CSE1110-assignment-5
+# CSE1110 Assignment 5: Sports League
 
 Create a Processing program to keep track of points in a competition such as a Music Competition or a Sports League.  In sports, the general rule is that a win is worth 2 points. In this assignment we will assume there are no ties, no overtime, etc. For other types of competition, you will need to come up with another sort of competition (perhaps an average score of several judges).
 
