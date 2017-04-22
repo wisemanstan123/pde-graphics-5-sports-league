@@ -40,6 +40,11 @@ For a music competition, it might look like:
 Using the variables, fill out the statistics  table.  
 Overall, your table should look similar to the following:
 
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 | Team  | Wins | Losses | Points | 
 | --- | --- | --- | --- | --- |
 | Eskimos | 9 | 7 | 18 |
