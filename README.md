@@ -40,16 +40,11 @@ For a music competition, it might look like:
 Using the variables, fill out the statistics  table.  
 Overall, your table should look similar to the following:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
-| Team  | Wins | Losses | Points | 
-| --- | --- | --- | --- | --- |
-| Eskimos | 9 | 7 | 18 |
-| Argos | 6 | 10 | 12 |
-| Stampeeders | 2 | 14 | 4
+| Team         | Wins | Losses | Points | 
+| ------------ | ---- | ------ | ------ |
+| Eskimos      | 9    | 7      | 18     |
+| Argos        | 6    | 10     | 12     |
+| Stampeeders  | 2    | 14     | 4      |
         
 ## Step 7
 To ensure you did everything correctly, change the number of wins for a couple of teams (give them a few more wins). Then rerun the program and pay attention to the points of the changed teams. If the points do not change automatically, you have set something up incorrectly.  (You probably did not use the variables in a formula for calculating points.)
